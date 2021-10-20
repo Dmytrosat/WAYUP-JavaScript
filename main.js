@@ -76,10 +76,10 @@ let speedOfSecond = 114;
 console.log(speedOfSecond); // 114
 
 let distance1 = speedOfFirst * time;
-console.log(distance1); // 95*2=190
+console.log(distance1); // 190
 
 let distance2 = speedOfSecond * time;
-console.log(distance2); // 114*2=228
+console.log(distance2); // 228
 
 let distanceAll = distance1 + distance2;
 console.log('Расстояние между городами -' + ' ' + distanceAll + ' ' + 'м'); // Расстояние между городами - 418 м
