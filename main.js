@@ -40,14 +40,14 @@ if (nameStadium == 'Lviv') {
 
 // Task #2
 
-let numberHeight1 = 40;
-console.log(numberHeight1); // 40
+let numberHeight = 40;
+console.log(numberHeight); // 40
 
-let numberWidth1 = 70;
-console.log(numberWidth1); // 70
+let numberWidth = 70;
+console.log(numberWidth); // 70
 
-let resultArea1 = numberHeight1 * numberWidth1;
-console.log('Площадь прямоугольника -' + ' ' + resultArea1 + ' ' + 'см2'); // Площадь прямоугольника - 2800 см2
+let resultArea = numberHeight * numberWidth;
+console.log('Площадь прямоугольника -' + ' ' + resultArea + ' ' + 'см2'); // Площадь прямоугольника - 2800 см2
 
 /* 
     Задание 3:
